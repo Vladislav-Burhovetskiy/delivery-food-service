@@ -17,7 +17,7 @@ function Header({ cartCount }) {
         <div className="header__cart">
           <p>{cartCount}</p>
           <NavLink to="/delivery-food-service/shopping-cart">
-            <img src="/public/shopping_cart.svg" alt="Cart" />
+            <img src="./shopping_cart.svg" alt="Cart" />
           </NavLink>
         </div>
       </div>
