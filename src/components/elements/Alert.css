@@ -9,7 +9,9 @@
 }
 
 .alert__img {
+  color: #646cff;
   height: 40px;
+  box-shadow: 0px 2px 5px 0px rgba(234, 226, 226, 0.5);
 }
 
 
