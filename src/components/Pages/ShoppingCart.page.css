@@ -1,0 +1,6 @@
+.shopping-cart {
+  display: grid;
+  grid-template-columns: 1fr 2fr;
+  padding: 0 40px;
+}
+

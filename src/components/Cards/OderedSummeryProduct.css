@@ -1,0 +1,42 @@
+.summery-card {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.summery-card__image-container {
+  width: 100px;
+  height: 100px;
+}
+
+.summery-card__image {
+  width: 100px;
+  height: 100px;
+}
+
+.summery-card__product-info {
+  margin: 0 20px;
+}
+
+.summery-card__product-description {
+  max-width: 480px;
+}
+
+.summery-card__btn-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.summery-card__product-price {
+  color: #646cff;
+  margin-bottom: 5px;
+}
+
+.summery-card__product-count {
+  margin: 0 5px;
+}
+
+.summery-card__btn-delete {
+  font-size: small;
+}

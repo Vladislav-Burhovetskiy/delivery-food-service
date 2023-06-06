@@ -1,0 +1,10 @@
+.product-card__button {
+  position: absolute;
+  bottom: 5px;
+  right: 25px;
+  font-size: small;
+}
+
+.product-card__button-price {
+  color: #646cff;
+}

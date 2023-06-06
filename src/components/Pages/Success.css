@@ -1,0 +1,10 @@
+.success {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 200px;
+}
+
+.success__text {
+  margin-left: 10px;
+}

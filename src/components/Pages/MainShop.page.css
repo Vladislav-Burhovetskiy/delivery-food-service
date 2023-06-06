@@ -1,0 +1,11 @@
+.main_container {
+  display: grid;
+  grid-template-columns: 1fr 3fr;
+  max-width: 1280px;
+  padding: 0 40px;
+  margin: 0 auto;
+}
+
+.products-preview__container {
+  max-width: 900px;
+}

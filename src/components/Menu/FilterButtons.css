@@ -1,0 +1,10 @@
+.menu_buttons {
+  display: flex;
+  flex-direction: column;
+  max-width: 250px;
+  margin: 2px 0;
+}
+
+.active {
+  color: rgb(100, 255, 227);
+}
