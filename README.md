@@ -14,7 +14,7 @@ In the root of the project run:
 Also, open new terminal & navigate to the server folder and install modules there. 
 You can do that by running:
 3. $ cd server 
-4. 4. $ npm install
+4. $ npm install
 
 Afterwards, open one more terminal & navigate to the server folder $ cd server ,
 for start the server from the server folder by running:
