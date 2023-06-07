@@ -14,7 +14,7 @@ In the root of the project run:
 Also, open new terminal & navigate to the server folder and install modules there. 
 You can do that by running:
 3. $ cd server 
-4. $ npm install
+4. 4. $ npm install
 
 Afterwards, open one more terminal & navigate to the server folder $ cd server ,
 for start the server from the server folder by running:
@@ -25,9 +25,13 @@ Go back to the root of the project directory and run:
 7. npm run dev
 
 # For using server side also you need MongoDB:
-In MongoDB you need to have created "food-odering" DB;
+In MongoDB you need to have created "food-odering" DB with 3 collections: 
+- products;
+- categories;
+- orders;
+
 Be sure standard PORT for MongoDB "mongodb://localhost:27017";
-For creating collections run:
+For creating categories and products run:
 - Open new terminal & change directory: $ cd server 
 - Run command: $ node seed.js
 
