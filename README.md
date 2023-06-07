@@ -7,7 +7,7 @@
 - [SuccessPage](https://drive.google.com/file/d/1N3FuKhd2WSpciymED_sDJr0YaBDRbEEz/view?usp=share_link)
 
 # How to run the application
-In the root of the project run:
+ In the root of the project run:
 1. git clone https://github.com/Vladislav-Burhovetskiy/delivery-food-service.git
 2. npm i
 
