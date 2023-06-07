@@ -7,20 +7,20 @@
 - [SuccessPage](https://drive.google.com/file/d/1N3FuKhd2WSpciymED_sDJr0YaBDRbEEz/view?usp=share_link)
 
 # How to run the application
- In the root of the project run:
+- In the root of the project run:
 1. git clone https://github.com/Vladislav-Burhovetskiy/delivery-food-service.git
 2. npm i
 
-Also, open new terminal & navigate to the server folder and install modules there. 
-You can do that by running: 
+- Also, open new terminal & navigate to the server folder and install modules there. 
+- You can do that by running: 
 3. $ cd server 
 4. $ npm install
 
-Afterwards, open one more terminal & navigate to the server folder $ cd server ,
+- Afterwards, open one more terminal & navigate to the server folder $ cd server ,
 for start the server from the server folder by running:
 6. $ node index.js or npx nodemon index.js
 
-And to start the app in the development mode.
+- And to start the app in the development mode.
 Go back to the root of the project directory and run:
 7. npm run dev
 
