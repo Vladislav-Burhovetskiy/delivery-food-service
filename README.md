@@ -12,7 +12,7 @@ In the root of the project run:
 2. npm i
 
 Also, open new terminal & navigate to the server folder and install modules there. 
-You can do that by running:
+You can do that by running: 
 3. $ cd server 
 4. $ npm install
 
